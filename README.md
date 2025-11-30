@@ -47,7 +47,8 @@ Pastikan Anda telah menginstal **Python 3.10.0** atau versi yang lebih baru di s
 ### Clone Repositori
 
 ```bash
-git clone [https://github.com/Lyc-n/Klasifikasi_Tingkat_Kematangan_Buah_Pepaya](https://github.com/Lyc-n/Klasifikasi_Tingkat_Kematangan_Buah_Pepaya)
+git clone https://github.com/Lyc-n/Klasifikasi_Tingkat_Kematangan_Buah_Pepaya
+
 cd Klasifikasi_Tingkat_Kematangan_Buah_Pepaya
 ```
 
