@@ -62,3 +62,7 @@ pip install tensorflow opencv-python numpy
 ```bash
 py cam.py
 ```
+
+### Note
+
+Untuk menghentikan aplikasi tekan 'q' pada keyboard
