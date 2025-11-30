@@ -47,8 +47,8 @@ Pastikan Anda telah menginstal **Python 3.10.0** atau versi yang lebih baru di s
 ### Clone Repositori
 
 ```bash
-git clone [https://github.com/YourUsername/papaya-ripeness-classification.git](https://github.com/YourUsername/papaya-ripeness-classification.git)
-cd papaya-ripeness-classification
+git clone [https://github.com/Lyc-n/Klasifikasi_Tingkat_Kematangan_Buah_Pepaya](https://github.com/Lyc-n/Klasifikasi_Tingkat_Kematangan_Buah_Pepaya)
+cd Klasifikasi_Tingkat_Kematangan_Buah_Pepaya
 ```
 
 ### Install Library
